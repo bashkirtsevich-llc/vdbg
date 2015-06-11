@@ -1,0 +1,11 @@
+PANIC message  : [109335965], fpu_get_user: len:=40567
+PANIC message  : [109335965], Access violation at address 00534FB6 in module 'mozaa.exe'. Write of address 00000000
+PANIC message  : [82711377], fpu_get_user: len:=40567
+PANIC message  : [82711377], Access violation at address 00534FB6 in module 'mozaa.exe'. Write of address 00000000
+PANIC message  : [73279119], fpu_get_user: len:=40567
+PANIC message  : [73279119], Access violation at address 00534FB6 in module 'mozaa.exe'. Write of address 00000000
+PANIC message  : [109740167], Cannot open file "". Синтаксическая ошибка в имени файла, имени папки или метке тома
+PANIC message  : [180557762], fpu_get_user: len:=40567
+PANIC message  : [180557762], Access violation at address 00534E82 in module 'mozaa.exe'. Write of address 00000000
+PANIC message  : [52547089], fpu_get_user: len:=40567
+PANIC message  : [52547089], Access violation at address 00534E82 in module 'mozaa.exe'. Write of address 00000000
